@@ -1,8 +1,8 @@
 # PINNs for 2D Steady Cavity Flow Simulation
 
-This project utilizes Physics-Informed Neural Networks \ (PINNs) to simulate steady-state fluid flow within a rectangular cavity. It tackles two scenarios:
+This project utilizes Physics-Informed Neural Networks (PINNs) to simulate steady-state fluid flow within a rectangular cavity. It tackles two scenarios:
 
-Empty Cavity: This simulates the standard cavity flow problem without any obstacles. \
+Empty Cavity: This simulates the standard cavity flow problem without any obstacles. 
 Cavity with Cylinder: This scenario introduces a cylinder placed in the center of the cavity, allowing you to study the flow behavior around the object.
 # Features
 
@@ -14,9 +14,9 @@ Simulation parameters (e.g., Reynolds number)
 The presence and size of a cylinder (for the second scenario)
 # Installation
 
-1. Clone the repository:
-Bash
-git clone https://github.com/YanivAB/PINN-Incompressible-N-S-equations-for-low-speed/tree/main
+1. Clone the repository: \
+Bash \
+git clone https://github.com/YanivAB/PINN-Incompressible-N-S-equations-for-low-speed/tree/main \
 content_copy
 2. Install dependencies:
 Bash
