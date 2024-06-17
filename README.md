@@ -1,8 +1,8 @@
 # PINNs for 2D Steady Cavity Flow Simulation
 
-This project utilizes Physics-Informed Neural Networks (PINNs) to simulate steady-state fluid flow within a rectangular cavity. It tackles two scenarios:
+This project utilizes Physics-Informed Neural Networks/ (PINNs) to simulate steady-state fluid flow within a rectangular cavity. It tackles two scenarios:
 
-Empty Cavity: This simulates the standard cavity flow problem without any obstacles.
+Empty Cavity: This simulates the standard cavity flow problem without any obstacles. /
 Cavity with Cylinder: This scenario introduces a cylinder placed in the center of the cavity, allowing you to study the flow behavior around the object.
 # Features
 
