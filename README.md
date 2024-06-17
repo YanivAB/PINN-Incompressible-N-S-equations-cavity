@@ -18,29 +18,29 @@ The presence and size of a cylinder (for the second scenario)
 Bash \
 git clone https://github.com/YanivAB/PINN-Incompressible-N-S-equations-for-low-speed/tree/main \
 content_copy
-2. Install dependencies:
-Bash
-pip install -r requirements.txt
-content_copy
+2. Install dependencies: \
+Bash \
+pip install -r requirements.txt \
+content_copy \
 # Usage
 
-1. Train the PINNs model for empty cavity and visualize results:
-Run PINN_Incompressible_NS_equations_Cavity_150k.ipynb.ipynb
+1. Train the PINNs model for empty cavity and visualize results: \
+Run PINN_Incompressible_NS_equations_Cavity_150k.ipynb.ipynb \
 
-Or train the PINNs model for cavity with cylinder and visualize results:
-Run PINN_Incompressible_NS_equations_Cavity_Cylinder_150k.ipynb.ipynb
-content_copy
-2. Modify simulation parameters and boundary conditions in config.py.
+Or train the PINNs model for cavity with cylinder and visualize results: \
+Run PINN_Incompressible_NS_equations_Cavity_Cylinder_150k.ipynb.ipynb \
+content_copy \
+2. Modify simulation parameters and boundary conditions in config.py. \
 
-3. Refer to example.ipynb for a step-by-step demonstration, including selecting the desired cavity configuration (empty or with cylinder).
+3. Refer to example.ipynb for a step-by-step demonstration, including selecting the desired cavity configuration (empty or with cylinder). \
 
 # Documentation
 
-Developed for Technion's Applied Machine Learning for Scientists and Engineers course (036049) by Prof. Steven H. Frankel.
+Developed for Technion's Applied Machine Learning for Scientists and Engineers course (036049) by Prof. Steven H. Frankel. \
 Course materials: [https://students.technion.ac.il/local/technionsearch/course/36049/202302)]
 # Credits
 
-Developed by Yaniv Abramov, Tal Solomonovich, and Matar Hedi.
+Developed by Yaniv Abramov, Tal Solomonovich, and Matar Hedi. \
 Inspired by the work of Maziar Raissi on PINNs for fluid flow simulations.
 # License
 
