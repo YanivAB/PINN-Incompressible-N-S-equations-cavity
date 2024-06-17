@@ -22,15 +22,17 @@ content_copy
 Bash
 pip install -r requirements.txt
 content_copy
-Usage
+# Usage
 
-Train the PINNs model and visualize results:
-Bash
-python PINN_INCO**************.py
+1. Train the PINNs model for empty cavity and visualize results:
+Run PINN_Incompressible_NS_equations_Cavity_150k.ipynb.ipynb
+
+Or train the PINNs model for cavity with cylinder and visualize results:
+Run PINN_Incompressible_NS_equations_Cavity_Cylinder_150k.ipynb.ipynb
 content_copy
-Modify simulation parameters and boundary conditions in config.py.
+2. Modify simulation parameters and boundary conditions in config.py.
 
-Refer to example.ipynb for a step-by-step demonstration, including selecting the desired cavity configuration (empty or with cylinder).
+3. Refer to example.ipynb for a step-by-step demonstration, including selecting the desired cavity configuration (empty or with cylinder).
 
 # Documentation
 
